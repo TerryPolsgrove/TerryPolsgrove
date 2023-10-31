@@ -11,7 +11,7 @@
   
 <h2>👨‍💻 Software Development Projects:</h2>
 
--  <b>Python: CVE Showcase</b>
+-  [CVE Showcase](https://github.com/TerryPolsgrove/CVE-Showcase)
 -  <b>Bash: </b>
 
   <h2>📓 Current Certifacation</h2>
