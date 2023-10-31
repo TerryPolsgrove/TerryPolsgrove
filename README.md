@@ -8,21 +8,18 @@
   <a href="https://www.linkedin.com/in/terry-polsgrove-9aa5a6224" target="_blank" rel="noopener noreferrer">
     <img alt="TerryPolsgrove | LinkedIn" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
-<h2>📓 Current Certifacation</h2>
+  
+<h2>👨‍💻 Software Development Projects:</h2>
+
+-  <b>Python: CVE Showcase</b>
+-  <b>Bash: </b>
+
+  <h2>📓 Current Certifacation</h2>
 
 - 💻**COMPTIA A+**
 - 🌐**COMPTIA NETWORK+**
 - 🔒**COMPTIA SECURITY+**
 - 🧑‍💼️**ITIL 4**
-
-
-  
-<h2>👨‍💻 Software Development Projects:</h2>
-
-  <b>Python: CVE Showcase</b>
-  <b>Bash: </b>
-  
-  
 </div>
 
 
