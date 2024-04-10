@@ -20,6 +20,10 @@
 - 🌐**COMPTIA NETWORK+**
 - 🔒**COMPTIA SECURITY+**
 - 🧑‍💼️**ITIL 4**
+- 💻**COMPTIA CYSA+**
+- 🌐**COMPTIA Pentest+**
+- 🧑‍💼️**COMPTIA Project+**
+- ISC2 SSCP & CCSP
 </div>
 
 
